@@ -1,0 +1,1 @@
+ ssh -i "react-chat-keypair.pem" ec2-user@ec2-100-26-190-160.compute-1.amazonaws.com

@@ -1,0 +1,22 @@
+{
+  "name": "aws-chat-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.706.0",
+    "axios": "^0.19.2",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.15.2",
+    "mongoose": "^5.9.3",
+    "morgan": "^1.10.0",
+    "socket.io": "^1.7.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
